@@ -1,162 +1,156 @@
 # Photography Genres & Careers
 
-Photography combines observation, visual storytelling, technical control and collaboration. A genre describes the subject or approach; a career describes how someone earns a living from that work. The two overlap: a portrait photographer might work for families, newspapers, companies and galleries.
+A photograph of a person can be a family keepsake, a newspaper illustration, an advertisement or a work of art. Its subject alone does not explain what it does. The circumstances of its making, the relationship between photographer and subject, and the place where it is encountered all contribute to its meaning. Photography's genres and careers emerge from these relationships: between observation and invention, personal expression and commissioned work, immediate communication and lasting memory.
 
-## Main genres: challenges and techniques
+The boundaries remain permeable. A photographer documenting an Alpine community may move from portraits to interiors, from a sporting event to the surrounding landscape. The resulting pictures can belong to several genres while forming a single coherent project. Genres are therefore useful as traditions of looking and working, rather than fixed compartments.
 
-The settings below are starting points. Light, subject movement and the intended result determine the final choices. For the underlying controls, see [Equipment & Settings](03_equipment_%26_settings.md).
+## Subjects, approaches and photographic choices
 
-| Genre | Main challenges | Associated techniques |
-| --- | --- | --- |
-| **Portrait** | Helping people feel comfortable; choosing a background; keeping attention on the subject. | Build rapport, give clear direction, focus on the eyes and use window light or a soft light source. Choose depth of field carefully, especially for groups. |
-| **Landscape** | Changing weather, bright skies, finding depth and avoiding an unfocused composition. | Scout locations, observe the direction of light and use foreground, middle distance and background. A tripod supports slow exposures; exposure bracketing can help with a large brightness range when the scene allows it. |
-| **Street** | Unpredictable gestures, cluttered backgrounds and photographing people respectfully. | Anticipate movement, watch the edges of the frame and pre-focus or use responsive autofocus. Work with layers, reflections and the relationship between people and their surroundings. |
-| **Architectural and interiors** | Converging vertical lines, cramped rooms, mixed lighting and representing space accurately. | Keep the camera level when straight verticals matter; use a shift lens or careful perspective correction. Plan around sunlight, use a tripod and avoid stretching rooms with excessive wide-angle framing. |
-| **Sports** | Fast action, brief decisive moments, difficult light and distracting backgrounds. | Learn the sport, anticipate key positions and use continuous autofocus. Try a fast shutter speed to freeze action or pan with a slower speed to convey movement; use short bursts selectively. |
-| **Wildlife** | Unpredictable animals, distance, low light and avoiding disturbance. | Learn behaviour, wait patiently and use a suitable working distance. Continuous autofocus and fast shutter speeds help with action; support long lenses and prioritise the animal's welfare over the photograph. |
-| **Macro and close-up** | Very shallow depth of field, tiny movements and difficult lighting. | Focus precisely, stabilise the camera and diffuse the light. Focus stacking combines different focus distances for stationary subjects; wind and moving insects can make it unsuitable. |
-| **Documentary and photojournalism** | Gaining access, understanding context, accurate captions and telling a fair story under pressure. | Research the subject, record names and dates, and combine establishing views, details and human moments. Preserve factual content and follow the publication's rules on staging and editing. |
-| **Wedding and events** | Unrepeatable moments, changing light, crowded spaces and strict schedules. | Plan a timeline, anticipate interactions and combine candid observation with directed groups. Practise flash, prepare spare batteries and cards, and arrange equipment backup for paid assignments. |
-| **Fashion and beauty** | Coordinating styling, posing, lighting and a consistent creative concept. | Work from a brief or mood board with models, stylists and makeup artists. Control light and colour, direct poses and agree on the intended degree of retouching. |
-| **Product, food and still life** | Reflections, accurate colour, texture and meeting a client's brief. | Shape light with diffusers, reflectors and flags; refine composition on a tripod. Tethering to a computer helps inspect details. Use controlled colour and selective focus or stacking as needed. |
-| **Fine art and conceptual** | Developing a coherent idea and making presentation support its meaning. | Research, experiment and build a series. Staging, alternative processes, montage and unusual printing can serve the concept; explain the process where it affects interpretation. |
-| **Scientific and technical** | Repeatability, scale, consistent conditions and reliable records. | Use controlled illumination, scale references, documented settings and calibrated workflows. Specialist work may require microscopy or other domain-specific equipment and training. |
+### People: encounter, observation and performance
 
-Genres are flexible. A series about an Alpine village might combine landscape, portrait, architecture and documentary photography. Technique should support the story rather than become a checklist of effects.
+Portraiture begins with an encounter. Expression, gesture, clothing and surroundings can suggest something about a person, but they also reveal decisions made by the photographer. A close portrait against a plain background directs attention towards the face; an environmental portrait allows a workshop, kitchen or office to become part of the account. Lighting affects that relationship as much as composition. Broad, soft illumination can describe a face gently, while a smaller or more directional source gives shadows greater presence. Depth of field determines how much of the surrounding world remains legible; in a group, very shallow focus may exclude people whose faces fall behind the focus plane. The technical principles are developed in [Equipment & Settings](03_equipment_%26_settings.md).
 
-## Photographers who influenced the field
+Street photography shifts the balance towards situations that unfold without direction. Its subject may be a gesture, an unexpected alignment or a brief relationship between strangers and the city. The challenge is often less the speed of the shutter than the speed of recognition: a background becomes meaningful only when someone enters it. Anticipation, pre-focusing and responsive autofocus support this way of working, but attention to the people in the picture remains essential. An image made in public can still expose vulnerability or invite an interpretation the subject would not recognise.
 
-These examples offer different ways to think about photographs rather than a complete ranking of influential artists. The final column suggests a practical lesson to explore in your own work.
+Wedding and event photography combines these observational demands with an obligation to particular people. A ceremony or performance cannot simply be repeated because a photograph failed. The photographer moves between candid interactions, organised groups and the practical constraints of a schedule, often under mixed or rapidly changing light. Fashion and beauty photography usually allow more deliberate construction. Styling, pose, makeup, lighting and retouching work together to produce a visual proposition, making the photograph a collaboration as much as an individual act.
 
-| Photographer | Contribution and work to explore | What to study |
-| --- | --- | --- |
-| **Julia Margaret Cameron** | Her expressive Victorian portraits and literary tableaux helped establish photography as an artistic medium. She used selective focus and dramatic presentation rather than treating technical sharpness as the only goal. [The Met: Cameron](https://www.metmuseum.org/essays/julia-margaret-cameron-1815-1879). | How light, expression and softness can create mood. |
-| **Ansel Adams** | His landscapes and carefully controlled prints made tonal interpretation central to his practice. His idea of visualisation connected the exposure with the intended final print. [SFMOMA: Adams](https://www.sfmoma.org/artist/Ansel_Adams/?pg-artwork=12). | Plan how light and dark areas should feel in the finished image. |
-| **Dorothea Lange** | Her work on the Great Depression, including *Migrant Mother* (1936), became a defining example of socially engaged documentary photography. [MoMA: Migrant Mother](https://www.moma.org/momaorg/shared/flattened_pages/moma_learning/dorothea-lange-migrant-mother-nipomo-california-1936/). | Consider the human story, the caption and what the frame leaves outside. |
-| **Henri Cartier-Bresson** | A co-founder of Magnum Photos, he connected spontaneous observation with precise composition. His book *The Decisive Moment* became a reference for street photography and reportage. [Magnum: biography](https://pro.magnumphotos.com/C.aspx?ERID=24KL53ZMYN&VF=MAGO31_9_VForm&VP3=CMS3). | Anticipate how gesture and geometry can come together. |
-| **Robert Frank** | The Swiss-born photographer's *The Americans*, first published in France in 1958, offered a personal, questioning view of American life. His photographic books also show how editing and sequencing create meaning. [National Gallery of Art: Frank collection](https://www.nga.gov/artists/robert-frank-collection). | Read a sequence as a whole, including contrasts and recurring motifs. |
-| **Cindy Sherman** | In *Untitled Film Stills*, she staged herself as fictional film characters to examine familiar representations of women. [MoMA: Sherman](https://www.moma.org/momaorg/shared/flattened_pages/moma_learning/cindy-sherman-untitled-film-stills-1977-80/). | Examine how costume, setting and framing construct an identity. |
-| **Zanele Muholi** | Their photographic and activist practice gives visibility to Black LGBTQIA+ lives, challenging stereotyped representations and building a record of community and identity. [Tate: Muholi exhibition book](https://shop.tate.org.uk/zanele-muholi-exhibition-book/24734.html). | Think about who makes an image, who is represented and how participants shape their portrayal. |
+### Places: landscape and the built environment
 
-## Education and training
+Landscape photography turns space into a composition. Light, weather and viewpoint determine whether a mountain appears monumental, remote, familiar or altered by human activity. Foreground detail can establish scale, while the relationship between near and distant forms creates depth. A tripod permits long exposures that transform moving water or clouds; exposure bracketing records different brightness ranges for scenes whose highlights and shadows cannot be retained satisfactorily in one capture. Moving foliage, waves and changing light can complicate the combination of those exposures.
 
-There are several routes into photography. Compare the kind of work you want to develop, the teaching approach, practical facilities, feedback, language, time commitment and cost. A qualification and a strong portfolio serve different purposes; practical experience remains valuable in every route.
+Architectural photography shares this attention to space but introduces questions about design, function and representation. A building's proportions change visibly with viewpoint. Tilting the camera upwards makes vertical lines converge, whereas keeping it level or using a shift lens allows a different treatment of perspective. Digital correction offers another route, with consequences for cropping and usable resolution. Interiors add the difficulty of bright windows, darker rooms and light sources of different colours. A very wide view may reveal the room's organisation while also making distances appear more expansive. Architectural images therefore interpret a space even when they appear strictly descriptive.
 
-### Formal routes in Switzerland
+### Movement and scale: sport, wildlife and close-up work
 
-| Route | What it offers | Verified example |
-| --- | --- | --- |
-| **Vocational education: photographer CFC / EFZ** | Practical professional training through an apprenticeship or a full-time school route. The standard programme lasts four years and includes image production, postproduction and business tasks. | [Swiss careers guidance: Photographe CFC](https://www.orientation.ch/web_file/getbb?id=28174&mime=application%2Fpdf&original_name=Photographe_CFC_223.pdf). |
-| **Full-time vocational school** | Structured technical and creative study with professional experience. | [CEPV, Vevey](https://www.cepv.ch/formation/cfc-photographe-apprentissage-ecole-art/) offers a four-year photographer CFC programme including a six-month placement in its final year. |
-| **Bachelor's degree** | Sustained project development, photographic history and theory, critique, publications and commissioned work. | [ECAL Bachelor Photography](https://ecal.ch/en/courses-and-research/bachelor/bachelor-photography/), in Renens/Lausanne. |
-| **Master's degree** | Advanced development of an individual practice and longer projects, building on relevant previous study. | [ECAL Master Photography](https://ecal.ch/en/courses-and-research/master/master-photography/) is a two-year programme for students with a related bachelor's degree. |
+Sports photography depends on understanding an event well enough to recognise where significance is likely to emerge. A fast shutter can isolate a body in mid-air, but the most revealing moment may be anticipation, disappointment or an exchange between teammates. Continuous autofocus follows movement through changing distances. Panning offers a different account of speed: the camera follows the subject during a longer exposure, allowing the surroundings to blur. Both approaches translate movement into a still image, with different emotional effects. [1](#ref-1)
 
-Admission procedures, accepted qualifications and programme details vary. Consult the linked institutions for the current requirements.
+Wildlife photography brings related technical demands into a less controllable environment. Knowledge of behaviour and habitat affects where the photographer waits and what becomes visible. A long lens provides a narrow view from a distance, although environmental images can depend on including more of the animal's surroundings. Light, access and subject movement frequently impose compromises between shutter speed, aperture and ISO. The animal's behaviour also establishes an ethical limit: a successful image cannot justify disturbance or damage. Patience and understanding matter alongside equipment. [2](#ref-2)
 
-### Workshops, assisting and independent learning
+Macro photography reverses the apparent scale of the world. At close distances, a thin zone of sharpness can make a small subject difficult to describe fully. Focus stacking combines photographs focused at different distances, extending the sharp region in the finished image. It is most straightforward with a stable camera and a subject that remains still; wind and a moving insect can disrupt the sequence. Scientific and technical photography takes the demand for control further. Scale references, consistent illumination and documented procedures may be essential when an image serves as a record for comparison or analysis. [3](#ref-3)
 
-Short courses can target lighting, editing, printing, visual storytelling or book design. The [Centre de la photographie Genève](https://www.centrephotogeneve.ch/pages/photographers) offers workshops, mentorship activities and portfolio feedback. Museums and festivals also provide talks and opportunities to discuss work with other photographers.
+### Evidence, persuasion and invention
 
-Assisting a working photographer teaches preparation, lighting, collaboration and delivery. Independent study can be structured around a specific project: make a series, edit it, ask for critique, revise it and produce a finished outcome. Learn file organisation, backups, captions and basic business administration alongside camera technique.
+Documentary photography and photojournalism organise images around events, conditions and lived experience. Their authority depends on more than visual plausibility. Research, access, captions and the sequence in which pictures appear help determine what an audience can reasonably understand. A compelling isolated frame may offer a partial or misleading account; a wider view or a carefully researched caption can change its meaning. World Press Photo's entry and verification framework reflects the importance of authorship, factual accuracy and the treatment of image content within professional journalism. [4](#ref-4)
 
-### Turning skills into a career
+Commercial photography works within a different relationship: the image responds to a brief. Product, food and still-life photography may involve prolonged adjustments to reflections, colour and texture. Diffusers soften the apparent light source, reflectors open shadows, and flags block light or shape reflections. Viewing a camera's output on a connected computer makes small inconsistencies easier to judge. Fine art and conceptual photography can employ the same precision while pursuing a self-defined question. Staging, montage, alternative processes and unusual materials become ways of thinking through an idea. The significance of an alteration depends on the image's purpose and the expectations surrounding it.
 
-Professional work can include freelance assignments, staff positions, running a studio, licensing photographs, print sales, teaching or a combination of activities. Related roles include retouching, picture editing, assisting, printing, curating and photographic archiving; some require additional specialist training.
+### How common are these genres?
 
-A practical starting sequence is to:
+Picfair surveyed 541 photographers in November 2024, emphasising amateurs and emerging practitioners. Figure 1 shows selected genres; responses overlap. This question's response count is unspecified. [5](#ref-5)
 
-1. Choose a small project or a client type and develop relevant work.
-2. Build a concise portfolio showing consistent quality and a clear point of view.
-3. Practise working to a brief, schedule and delivery specification.
-4. Learn to estimate preparation, shooting, editing, expenses and administration when pricing a job.
-5. Agree in writing on deliverables, permitted uses, payment and deadlines.
-6. Maintain professional relationships and update the portfolio as your work develops.
+![Selected genres reported in Picfair's 2024 survey: street 44%, portrait 28%, macro 28%, fine art 23%, aerial 12%, commercial 11%. Multiple responses; not global shares.](assets/05/genres-survey-2024.png)
 
-Visibility can help people discover your work, but paid work also depends on trust, reliability, clear communication and a service that meets a real need.
+*Figure 1. Selected reported genres; categories expressed only as thresholds are omitted. Picfair (2024). [5](#ref-5)*
 
-## The photography landscape in Switzerland
+## Photographers who changed what a photograph could be
 
-Switzerland's photography scene connects cultural institutions, vocational and art schools, publishers, festivals, professional organisations and independent practitioners. The following examples provide entry points across different language regions; they are not an exhaustive directory.
+The history of photography becomes more revealing when approached through changing ideas about the medium. Julia Margaret Cameron's nineteenth-century portraits and tableaux gave expressive softness and dramatic presence a place in photographic art. Her work challenged the assumption that meticulous detail was the sole measure of achievement. Ansel Adams later made the carefully interpreted print central to his landscapes. His concept of visualisation connected an imagined result with the decisions made during exposure and in the darkroom. Together, these practices show how photographic description has always included interpretation. [6](#ref-6) [7](#ref-7)
 
-### Museums, collections and exhibition spaces
+A different emphasis appears in Dorothea Lange's socially engaged work during the Great Depression. *Migrant Mother* became an emblem of hardship through its circulation, bringing a particular encounter into public debate. Henri Cartier-Bresson's photographs, associated with the idea of the decisive moment, joined spontaneous observation with a strong sense of visual order. As a co-founder of Magnum Photos, he also belonged to a professional structure through which photographers developed and circulated their work. Their practices suggest two related questions: what makes an instant visually compelling, and what allows that instant to speak about a larger situation? [8](#ref-8) [9](#ref-9)
 
-| Institution | Location | Role in photography |
-| --- | --- | --- |
-| **Photo Elysée** | Lausanne | A museum devoted to photography, with exhibitions and work on collecting, documenting, conserving and digitising photographic materials. [Museum](https://elysee.ch/en/museum/) and [collections](https://elysee.ch/en/collections/). |
-| **Fotomuseum Winterthur** | Winterthur | Exhibitions, collecting and discussion focused on contemporary photography and visual culture, including the effects of digital technologies. [About the museum](https://www.fotomuseum.ch/en/ueber-uns/). |
-| **Fotostiftung Schweiz** | Winterthur | Preserves, researches and presents photographic heritage with a Swiss connection. It also runs a specialist public library with Fotomuseum Winterthur. [Institution](https://fotostiftung.ch/en/foundation/institution/). |
-| **Centre de la photographie Genève** | Geneva | Exhibitions and education around contemporary photography, alongside activities for artists and photographers. [About the centre](https://www.centrephotogeneve.ch/pages/about). |
+Robert Frank's *The Americans*, first published in France in 1958, gave the photographic book a powerful role in shaping a personal account of society. Meaning emerges through recurring motifs and the relationships between pictures as well as through individual frames. His Swiss origins also connect this international history to a photographic culture that extends beyond national subjects. Cindy Sherman approached representation through constructed scenes. In *Untitled Film Stills*, her fictional characters evoke familiar screen identities, making the apparent naturalness of those identities open to question. [10](#ref-10) [11](#ref-11)
 
-### Festivals and encounters
+Zanele Muholi's photographic and activist practice brings authorship and visibility into the foreground. Their work represents Black LGBTQIA+ lives beyond familiar patterns of exclusion and stereotype. Read alongside the earlier examples, it widens the account of photographic influence: changing the field can mean changing its visual language, its forms of distribution, or the people whose experiences enter the record. These photographers offer several histories of the medium, each shaped by a different understanding of what an image can accomplish. [12](#ref-12)
 
-- **[Biennale Images Vevey](https://www.images.ch/en/information/):** Photographic installations appear in public spaces as well as museums and galleries. Its biennial format brings images into everyday urban settings.
-- **[Verzasca Foto](https://www.verzascafoto.com/):** Connects emerging international photography with the landscape and communities of Ticino's Verzasca Valley through exhibitions and encounters. The organiser states that the festival becomes biennial from its 2027 edition.
-- **[Swiss Photomonth](https://www.swissphotomonth.ch/information):** A national initiative connecting photography venues and events, useful for discovering institutions beyond your own region.
+## Learning photography and building a working life
 
-### Professional networks
+Photographic education involves technical fluency, visual judgement and the capacity to sustain a project. These develop at different speeds. Camera operation may become familiar relatively quickly, while editing a sequence, understanding an audience or establishing a distinctive approach can require years of practice and discussion. Formal study, assisting and independent work provide different settings for that development.
 
-**[SIYU professionelle fotografie schweiz](https://www.siyu.ch/)** represents photographers' professional interests and offers member activities and resources. Older references may use SBF, USPP or vfg: these organisations came together under SIYU, as documented in its [2024 statutes](https://www.sbf.ch/fileadmin/Content/Dokumente_Recht_public/Statuten_2024/Statuten_CH/Statuten_SIYU_professionelle_fotografie_schweiz_06_2024.pdf).
+Switzerland's photographer CFC / EFZ is a vocational qualification normally obtained through four years of training, either in an apprenticeship or a full-time school route. Its scope includes preparation, image production, postproduction and the administrative life of the profession. At CEPV in Vevey, the full-time programme includes a six-month placement during the final year. This connects structured study with the practical demands of working for and with others. [13](#ref-13) [14](#ref-14)
 
-**[Photojournalistes suisses / Swiss photojournalists within impressum](https://www.photojournalists.ch/)** provides a professional network, industry information and resources concerning the working conditions and practice of photojournalism.
+Higher education places sustained project development within a wider artistic and critical context. ECAL's bachelor's programme in photography brings together personal work, commissioned projects, exhibitions and publications. Its two-year master's programme offers a setting for advanced work following a related bachelor's degree. Workshops and mentorships provide more concentrated forms of exchange: the Centre de la photographie Genève, for example, offers activities around photographic practice, project development and publishing. The value of each route depends partly on the type of feedback, professional contact and time for experimentation it makes possible. Admission requirements and programme structures remain specific to the institution. [15](#ref-15) [16](#ref-16) [17](#ref-17)
 
-For newcomers, exhibitions, public talks and portfolio reviews offer ways to understand the field and meet practitioners. For professional assignments, a relevant portfolio and the ability to work with editors, clients and production teams are as important as knowing the institutions.
+A working life in photography may combine assignments with personal projects, teaching, licensing or print sales. Staff employment, freelance work and running a studio involve different degrees of autonomy and financial exposure. Related careers in retouching, picture editing, printing, curating and archiving draw on photographic knowledge while often requiring additional specialist experience. The profession is therefore broader than the role of the person releasing the shutter.
 
-## Where photographs are published, displayed and preserved
+For freelance photographers, the visible assignment is only part of the work. Research, preparation, travel, selection, editing and administration all consume time. An agreement about the finished images also concerns how they will be used, where they will appear and for how long. A portfolio communicates visual ability, while reliable estimates, communication and delivery make that ability usable within another person's project. Reputation develops through both kinds of evidence.
 
-A photograph can have several lives. The same project might first appear on a website, later become a magazine story, then develop into a photobook or exhibition. Some photographs eventually enter an archive or collection. These routes overlap and do not form a compulsory career ladder.
+## Switzerland as a photographic environment
 
-### A map of photographic circulation
+Switzerland's photography scene is sustained by the relationships between schools, cultural institutions, independent practitioners and professional organisations. Lausanne and Winterthur illustrate two complementary ways of connecting public exhibitions with the longer life of photographic material. Photo Elysée in Lausanne combines exhibitions with collecting, cataloguing, conservation and digitisation. In Winterthur, Fotomuseum Winterthur examines contemporary photography and visual culture, including their digital transformations, while Fotostiftung Schweiz preserves and researches work with a Swiss connection. The two Winterthur institutions also share a specialist public library. These activities connect the experience of looking at pictures with the work that keeps them available for future study. [18](#ref-18) [19](#ref-19) [20](#ref-20)
+
+Elsewhere, photography takes on a different relationship with place. The Centre de la photographie Genève links exhibitions with discussion and professional development. Images Vevey brings photographic installations into streets, parks and other public settings, as well as galleries and museums. Its activities also encompass publishing and support for new projects. In Ticino, Verzasca Foto connects emerging international photography with the communities and landscape of an Alpine valley; its organiser has announced a biennial format from 2027. Swiss Photomonth provides another point of connection by bringing attention to venues and events across the country. These examples reveal a scene distributed across language regions and forms of cultural participation. [17](#ref-17) [21](#ref-21) [22](#ref-22) [23](#ref-23)
+
+Professional networks address the conditions under which photographs are made. SIYU represents photographers' shared professional interests; older sources may refer separately to SBF, USPP and vfg, which came together under this organisation. Photojournalistes suisses, within impressum, focuses on the practice and working conditions of photojournalism. Alongside schools and exhibition spaces, these networks give photography a collective professional life, connecting questions of authorship and technique with questions of representation and employment. [24](#ref-24) [25](#ref-25)
+
+## The public and private lives of photographs
+
+A photograph changes when it enters a new setting. On social media it may be seen briefly among unrelated images; on a personal website it can become part of an extended project. A newspaper places it within an account of events, while a magazine can give a series greater space or connect it to a specialised readership. In a book, sequencing, paper and page turns establish a particular rhythm. An exhibition adds scale, material and the movement of the viewer through a room. These settings shape interpretation as well as access.
 
 ```mermaid
 flowchart TD
-    A[Photograph or photographic project] --> B[Publish and share]
-    A --> C[Display and encounter]
-    A --> D[Preserve and research]
-    B --> E[Social media and websites]
-    B --> F[Newspapers and magazines]
-    B --> G[Books and photobooks]
-    C --> H[Exhibitions and festivals]
-    C --> I[Competitions and award showcases]
-    D --> J[Personal and institutional archives]
-    D --> K[Museum and library collections]
-    I -. selected work .-> H
-    G -. collected copies .-> K
-    F -. selected holdings .-> J
+    P[Photographic project] --> O[Online circulation]
+    P --> E[Editorial and book publication]
+    P --> D[Public display]
+    P --> A[Long-term preservation]
+    O --> S[Social media]
+    O --> W[Personal and editorial websites]
+    E --> N[Newspapers and magazines]
+    E --> B[Books and photobooks]
+    D --> X[Exhibitions and festivals]
+    D --> C[Competition showcases]
+    A --> R[Personal and institutional archives]
+    A --> M[Museum and library collections]
+    C -. selected work .-> X
+    B -. collected copies .-> M
+    N -. selected holdings .-> R
 ```
 
-*This diagram shows possible relationships, not audience sizes, market shares or a guarantee that published work will be collected. The table below provides the same categories for readers whose Markdown viewer does not render Mermaid.*
+*Figure 2. A conceptual map of photographic circulation. Arrows indicate possible relationships, without implying a required sequence or measuring publication frequency. Online circulation includes social media and websites; print publication includes newspapers, magazines and books; public display includes exhibitions, festivals and award showcases; preservation takes place in archives and collections. The archive and collection branches reflect the institutional practices discussed above. [18](#ref-18) [20](#ref-20) [21](#ref-21)*
 
-| Channel | What it is useful for | What photographers prepare or consider |
-| --- | --- | --- |
-| **Social media** | Discovery, discussion, short series and contact with a community. | Screen-sized exports, useful captions, accessible descriptions and a link to a fuller project. Platform presentation and visibility can change; keep your own originals and records. |
-| **Personal and editorial websites** | A portfolio, an extended story, a searchable project or direct contact with clients. | A clear sequence, readable context, image credits, contact information and files sized for fast loading. |
-| **Newspapers** | Timely reporting, public-interest stories and local coverage, in print and online. | Verified captions, accurate context, quick delivery and compliance with editorial standards. |
-| **Magazines** | Features, fashion, specialist subjects and sustained visual stories. | A focused pitch or response to a brief, a coherent selection and files suitable for the page design. |
-| **Books and photobooks** | An extended sequence with deliberate pacing and a physical or digital form. | Editing, page order, text, design, proofing, printing and distribution. Production and sales costs need planning. |
-| **Exhibitions and festivals** | Viewing scale, material, space and relationships between images. | Print tests, display sizes, framing or mounting, captions, installation planning and a budget. |
-| **Competitions** | Selection by a jury and possible publication, exhibition or professional recognition. | Work that fits the category, an accurate statement and files meeting the rules. Shortlisting does not guarantee income. |
-| **Archives, libraries and museum collections** | Long-term documentation, research and cultural memory. | Identified files or objects, dates, captions, provenance and clear rights records. Institutions select material according to their collecting policies. |
+These routes are rarely exclusive. A hypothetical project about a neighbourhood could appear as a short newspaper feature, a longer website essay, a community exhibition and eventually a photobook. The edit would change with each form: one image might establish the story for a newspaper, while a book could develop ambiguity or repetition over many pages. An archive might later accept material that fits its collecting policy, including records that were never selected for public display.
 
-**Publication and preservation need different workflows.** A social media upload is a distribution copy. Preservation requires keeping original captures and high-quality masters, maintaining metadata, making independent backups and checking that files remain readable. Physical prints and negatives need appropriate storage and handling. Photo Elysée's [collection work](https://elysee.ch/en/collections/) illustrates how cataloguing, conservation and digitisation support long-term access.
+The same survey recorded sources of inspiration (Figure 3). Neither chart measures publication frequency or represents worldwide or Swiss market shares. [5](#ref-5)
 
-**Example:** A documentary project on a Swiss neighbourhood could become a local newspaper feature, a longer website story, a community exhibition and a photobook. A local archive might later accept selected materials if they fit its collection. Each version needs its own edit and supporting information.
+![Sources of inspiration in Picfair's 2024 survey: outdoors 76%, online sources 60%, books and magazines 40%, galleries 25%. Responses overlap and do not measure publication frequency.](assets/05/inspiration-survey-2024.png)
 
-## Well-known photography competitions and awards
+*Figure 3. Inspiration sources; online includes social media, blogs and websites. Responses overlap. Picfair (2024). [5](#ref-5)*
 
-Competitions differ in purpose: some recognise completed images, while others support a project still to be made. Use the current organiser's rules for eligibility, dates, fees and permitted editing; these change between editions.
+A durable photographic record requires more than public visibility. The file uploaded to a platform is usually a distribution copy, separated from the original capture, editing history and supporting records. Preservation depends on maintaining those materials, their identification and their readability over time. Physical prints, negatives and transparencies bring their own conservation requirements. Photo Elysée's collection work makes these often hidden activities explicit through cataloguing, research, conservation and digitisation. A widely circulated image and a well-preserved photographic object therefore have different, if sometimes connected, histories. [18](#ref-18)
 
-| Competition or award | Focus | Who or what it is suited to |
-| --- | --- | --- |
-| **[World Press Photo Contest](https://www.worldpressphoto.org/contest/entry-rules)** | Photojournalism and documentary photography. | Professional photographers who can provide the required evidence of professional status. Accuracy, captions and image verification are central. |
-| **[Sony World Photography Awards](https://www.worldphoto.org/sony-world-photography-awards)** | A broad range of photographic subjects and approaches. | Routes for individual images, series, students and young photographers. The current programme uses the names Single Image and Series, previously Open and Professional. |
-| **[Wildlife Photographer of the Year](https://www.nhm.ac.uk/wildlife-photographer-of-the-year/competition.html)** | Wildlife, nature and our relationship with the natural world; organised by London's Natural History Museum. | Adult and young photographers, with separate competition rules. Animal welfare and faithful information about the photograph matter alongside visual quality. |
-| **[Swiss Press Photo](https://swisspressaward.ch/en/)** | Press photography in the Swiss media landscape. | Freelance and staff photographers whose work meets the edition's publication and eligibility conditions. |
-| **[Grand Prix Images Vevey](https://www.images.ch/en/information/)** | Support for developing a new photographic project. | A project proposal: the award supports production, with the resulting work presented at the subsequent biennale. This differs from submitting a finished single image. |
+## Recognition, competitions and photographic value
 
-Before entering, check the theme, eligible capture or publication period, age or professional requirements, entry cost, judging process and rights granted to the organiser. Check rules for staging, composites, AI tools and editing rather than assuming all competitions apply the same standard. Retain original files and accurate captions if verification is required.
+Photography competitions bring together artistic judgement, institutional priorities and public attention. Their categories help reveal what each organiser values. World Press Photo concentrates on professional photojournalism and documentary work, with requirements concerning professional status, captions and verification. Wildlife Photographer of the Year, organised by London's Natural History Museum, places photography in relation to the natural world and offers separate adult and young photographers' competitions. The subjects overlap with broader photographic culture, but the expectations surrounding evidence and ethical practice are specific to each programme. [4](#ref-4) [26](#ref-26)
 
-Competition results are one form of feedback. A coherent body of work, thoughtful presentation and sustained relationships also contribute to a photography career.
+The Sony World Photography Awards covers a broader range of approaches through routes for individual images, series, students and young photographers. Its current names, Single Image and Series, replace the former Open and Professional labels. Swiss Press Photo recognises press photography within the Swiss media landscape. The Grand Prix Images Vevey has a different relationship to time: it supports the development of a proposed project, whose outcome is subsequently presented at the biennale. Recognition can therefore concern an existing photograph, a sustained body of work or the promise of work still to be made. [27](#ref-27) [28](#ref-28) [21](#ref-21)
 
----
+Selection can lead to an exhibition, publication or new professional contacts, although its consequences vary. A jury's decision belongs to a particular brief and moment; it is one account of value within a field that also includes readers, clients, communities and future researchers. The photographs that sustain a career, enter a family history or become significant in an archive do not necessarily follow the same path. This diversity of purposes is part of what keeps photography open to different kinds of working life.
 
-*Institutional and programme information checked on 26 November 2026. Linked official sources provide current admission requirements, programmes and competition conditions.*
+## References
+
+The sources below support the chapter's factual and technical discussion. Survey results retain their original 2024 date; programme and competition information was reviewed for this revision on 27 November 2026. Institutional details and eligibility requirements can change between editions.
+
+1. <a id="ref-1"></a>Nikon. [*Photographing Sports Indoors and Out*](https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/photographing-sports-indoors-and-out) and [*10 Tips for Better Camera Panning*](https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/10-tips-for-better-camera-panning). Movement, shutter speed and panning.
+2. <a id="ref-2"></a>Nikon. [*Creating Compelling Wildlife Imagery Without Super Telephoto Lenses*](https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/creating-compelling-wildlife-imagery-without-super-telephoto-lenses). Behaviour, patience and responsible practice.
+3. <a id="ref-3"></a>Nikon. [*Creative Photography You Can Do At Home*](https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/creative-photography-you-can-do-at-home). Close-up work and focus stacking. See also the technical sources in [Equipment & Settings](03_equipment_%26_settings.md#references).
+4. <a id="ref-4"></a>World Press Photo. [*2027 Contest Entry Rules*](https://www.worldpressphoto.org/contest/entry-rules). Professional eligibility and links to ethics, verification and manipulation requirements.
+5. <a id="ref-5"></a>Picfair. (2024). [*Picfair Photographer Survey 2024: AI, Social Media, Money, and Meaning*](https://focus.picfair.com/picfair-survey-report-2024). Figures 1 and 3 use its rounded percentages; the platform-associated sample is not a population estimate.
+6. <a id="ref-6"></a>Daniel, Malcolm. (2004). [*Julia Margaret Cameron (1815–1879)*](https://www.metmuseum.org/essays/julia-margaret-cameron-1815-1879). The Metropolitan Museum of Art.
+7. <a id="ref-7"></a>SFMOMA. [*Ansel Adams*](https://www.sfmoma.org/artist/Ansel_Adams/?pg-artwork=12). Landscape, printing and visualisation.
+8. <a id="ref-8"></a>MoMA. [*Dorothea Lange: Migrant Mother, Nipomo, California, 1936*](https://www.moma.org/momaorg/shared/flattened_pages/moma_learning/dorothea-lange-migrant-mother-nipomo-california-1936/).
+9. <a id="ref-9"></a>Magnum Photos. [*Henri Cartier-Bresson: Biography*](https://pro.magnumphotos.com/C.aspx?ERID=24KL53ZMYN&VF=MAGO31_9_VForm&VP3=CMS3).
+10. <a id="ref-10"></a>National Gallery of Art. [*The Robert Frank Collection*](https://www.nga.gov/artists/robert-frank-collection). Photographs, books and working materials.
+11. <a id="ref-11"></a>MoMA. [*Cindy Sherman: Untitled Film Stills, 1977–80*](https://www.moma.org/momaorg/shared/flattened_pages/moma_learning/cindy-sherman-untitled-film-stills-1977-80/).
+12. <a id="ref-12"></a>Tate. [*Zanele Muholi: Exhibition Book*](https://shop.tate.org.uk/zanele-muholi-exhibition-book/24734.html). Institutional account of Muholi's photographic and activist practice.
+13. <a id="ref-13"></a>SDBB / CSFO, orientation.ch. [*Photographe CFC*](https://www.orientation.ch/web_file/getbb?id=28174&mime=application%2Fpdf&original_name=Photographe_CFC_223.pdf). Swiss vocational qualification and training routes.
+14. <a id="ref-14"></a>CEPV. [*Photographe à plein temps*](https://www.cepv.ch/formation/cfc-photographe-apprentissage-ecole-art/). Programme length and professional placement; programme information carried forward from the source consulted on 26 November 2026 (the page returned an access restriction during this revision).
+15. <a id="ref-15"></a>ECAL. [*Bachelor Photography*](https://ecal.ch/en/courses-and-research/bachelor/bachelor-photography/).
+16. <a id="ref-16"></a>ECAL. [*Master Photography*](https://ecal.ch/en/courses-and-research/master/master-photography/).
+17. <a id="ref-17"></a>Centre de la photographie Genève. [*For Photographers*](https://www.centrephotogeneve.ch/pages/photographers) and [*About*](https://www.centrephotogeneve.ch/pages/about).
+18. <a id="ref-18"></a>Photo Elysée. [*The Museum*](https://elysee.ch/en/museum/) and [*The Collection*](https://elysee.ch/en/collections/). Exhibitions, documentation, conservation and digitisation.
+19. <a id="ref-19"></a>Fotomuseum Winterthur. [*About the Museum*](https://www.fotomuseum.ch/en/ueber-uns/).
+20. <a id="ref-20"></a>Fotostiftung Schweiz. [*Institution*](https://fotostiftung.ch/en/foundation/institution/). Photographic heritage, exhibitions and the shared specialist library.
+21. <a id="ref-21"></a>Images Vevey. [*Information*](https://www.images.ch/en/information/). Biennale, publishing and Grand Prix project support.
+22. <a id="ref-22"></a>Verzasca Foto. [*Festival and Organisational Information*](https://www.verzascafoto.com/). Regional activity and the biennial format announced for 2027.
+23. <a id="ref-23"></a>Swiss Photomonth. [*Information*](https://www.swissphotomonth.ch/information).
+24. <a id="ref-24"></a>SIYU. [*Professional Association*](https://www.siyu.ch/) and [*Statutes, 2024*](https://www.sbf.ch/fileadmin/Content/Dokumente_Recht_public/Statuten_2024/Statuten_CH/Statuten_SIYU_professionelle_fotografie_schweiz_06_2024.pdf).
+25. <a id="ref-25"></a>Photojournalistes suisses / impressum. [*Association Website*](https://www.photojournalists.ch/).
+26. <a id="ref-26"></a>Natural History Museum, London. [*Wildlife Photographer of the Year: Competition*](https://www.nhm.ac.uk/wildlife-photographer-of-the-year/competition.html).
+27. <a id="ref-27"></a>World Photography Organisation. [*Sony World Photography Awards*](https://www.worldphoto.org/sony-world-photography-awards).
+28. <a id="ref-28"></a>Swiss Press Award. [*Swiss Press Photo and the Swiss Journalism Prize*](https://swisspressaward.ch/en/).
+
+## Further Reading
+
+These resources extend the discussion; they were not used as evidence for the chapter's factual claims.
+
+- Sontag, Susan. [*On Photography*](https://www.penguin.co.uk/books/7057/on-photography-by-susan-sontag/9780140053975). Essays on the authority of photographs and their relationship to experience, art and public life.
+- Sontag, Susan. [*Regarding the Pain of Others*](https://www.penguin.co.uk/books/54582/regarding-the-pain-of-others-by-susan-sontag/9780141012377). A sustained consideration of images of suffering and the responsibilities of looking.

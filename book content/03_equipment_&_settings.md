@@ -179,7 +179,7 @@ Add accessories when they solve a problem you have encountered.
 
 For equipment and lighting basics, see the [Sydney Art School handbook](https://sydneyartschool.com.au/wp-content/uploads/2025/11/Photography-Handbook-v1.0-Module-A-Camera-Basics-B-The-Photoshoot-compressed.pdf). [Canon's filter guide](https://www.canon.com.hk/en/club/article/itemDetail.do?itemId=10355) explains the different effects of polarising and neutral-density filters.
 
-## Bibliography
+## References
 
 Sources consulted on 21 November 2026. Manufacturer resources explain broadly applicable principles, although control names and product features vary between systems.
 
