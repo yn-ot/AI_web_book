@@ -10,3 +10,4 @@ Archived filenames use `<chapter>_<archive-date>_<reason>.md`. The date records 
 | --- | --- | --- | --- |
 | 2026-11-27 | 05 — Photography Genres & Careers | Replaced tables and instructions with connected prose; added sourced charts and distinct References and Further Reading sections. | [Current chapter](../book%20content/05_Photography_genres_%26_careers.md) |
 | 2026-11-27 | 03 — Equipment & Settings | Renamed the existing Bibliography heading to References; retained the chapter text and sources. | [Current chapter](../book%20content/03_equipment_%26_settings.md) |
+| 2026-11-27 | 05 — Photography Genres & Careers | Added seven credited photographic examples and image source records; preserved the prose-and-charts version. | [Current chapter](../book%20content/05_Photography_genres_%26_careers.md) |

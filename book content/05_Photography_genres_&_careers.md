@@ -10,7 +10,15 @@ The boundaries remain permeable. A photographer documenting an Alpine community 
 
 Portraiture begins with an encounter. Expression, gesture, clothing and surroundings can suggest something about a person, but they also reveal decisions made by the photographer. A close portrait against a plain background directs attention towards the face; an environmental portrait allows a workshop, kitchen or office to become part of the account. Lighting affects that relationship as much as composition. Broad, soft illumination can describe a face gently, while a smaller or more directional source gives shadows greater presence. Depth of field determines how much of the surrounding world remains legible; in a group, very shallow focus may exclude people whose faces fall behind the focus plane. The technical principles are developed in [Equipment & Settings](03_equipment_%26_settings.md).
 
+![Julia Margaret Cameron's portrait of Sir John Herschel, with unruly white hair and one side of his face in shadow.](assets/05/cameron-herschel-1867.jpg)
+
+*Photograph 1 — Portraiture. Julia Margaret Cameron, Sir John Herschel, 1867. The close framing and directional light give the face a sculptural presence, while the softer hair and clothing keep attention on the expression. Credit: Julia Margaret Cameron / MoMA, via Wikimedia Commons; public domain. [29](#ref-29)*
+
 Street photography shifts the balance towards situations that unfold without direction. Its subject may be a gesture, an unexpected alignment or a brief relationship between strangers and the city. The challenge is often less the speed of the shutter than the speed of recognition: a background becomes meaningful only when someone enters it. Anticipation, pre-focusing and responsive autofocus support this way of working, but attention to the people in the picture remains essential. An image made in public can still expose vulnerability or invite an interpretation the subject would not recognise.
+
+![Eugène Atget's view of a vegetable stall at a Paris street corner, with baskets in the foreground and blurred people to the right.](assets/05/atget-rue-vauvillers-1898.jpg)
+
+*Photograph 2 — Street and urban documentary photography. Eugène Atget, Coin de la rue Vauvillers, 1898. The shop, pavement and passing figures become a record of everyday urban life. The blurred people also show how movement can remain visible within an otherwise detailed scene. Credit: Eugène Atget / Musée Carnavalet, Paris Musées, via Wikimedia Commons; CC0. [30](#ref-30)*
 
 Wedding and event photography combines these observational demands with an obligation to particular people. A ceremony or performance cannot simply be repeated because a photograph failed. The photographer moves between candid interactions, organised groups and the practical constraints of a schedule, often under mixed or rapidly changing light. Fashion and beauty photography usually allow more deliberate construction. Styling, pose, makeup, lighting and retouching work together to produce a visual proposition, making the photograph a collaboration as much as an individual act.
 
@@ -18,15 +26,31 @@ Wedding and event photography combines these observational demands with an oblig
 
 Landscape photography turns space into a composition. Light, weather and viewpoint determine whether a mountain appears monumental, remote, familiar or altered by human activity. Foreground detail can establish scale, while the relationship between near and distant forms creates depth. A tripod permits long exposures that transform moving water or clouds; exposure bracketing records different brightness ranges for scenes whose highlights and shadows cannot be retained satisfactorily in one capture. Moving foliage, waves and changing light can complicate the combination of those exposures.
 
+![Ansel Adams's black-and-white landscape of the Snake River curving through a valley beneath the Teton Range and dramatic clouds.](assets/05/adams-tetons-snake-river-1942.jpg)
+
+*Photograph 3 — Landscape. Ansel Adams, The Tetons and the Snake River, 1942. The bright river leads the eye from the foreground towards the mountains; the dark woodland and luminous clouds establish a wide range of tones. Credit: Ansel Adams / U.S. National Archives, 79-AA-G01, via Wikimedia Commons; public domain in the United States as a federal government work. [31](#ref-31)*
+
 Architectural photography shares this attention to space but introduces questions about design, function and representation. A building's proportions change visibly with viewpoint. Tilting the camera upwards makes vertical lines converge, whereas keeping it level or using a shift lens allows a different treatment of perspective. Digital correction offers another route, with consequences for cropping and usable resolution. Interiors add the difficulty of bright windows, darker rooms and light sources of different colours. A very wide view may reveal the room's organisation while also making distances appear more expansive. Architectural images therefore interpret a space even when they appear strictly descriptive.
 
 ### Movement and scale: sport, wildlife and close-up work
 
 Sports photography depends on understanding an event well enough to recognise where significance is likely to emerge. A fast shutter can isolate a body in mid-air, but the most revealing moment may be anticipation, disappointment or an exchange between teammates. Continuous autofocus follows movement through changing distances. Panning offers a different account of speed: the camera follows the subject during a longer exposure, allowing the surroundings to blur. Both approaches translate movement into a still image, with different emotional effects. [1](#ref-1)
 
+![A California basketball player hanging from the rim after a dunk, with the ball and other players below him.](assets/05/sellers-basketball-2018.jpg)
+
+*Photograph 4 — Sports. Ron Sellers, California versus Washington State basketball, 22 February 2018. The player's suspended body, the falling ball and the low viewpoint concentrate the action into a single frame. Credit: Ron Sellers, via Wikimedia Commons; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). [32](#ref-32)*
+
 Wildlife photography brings related technical demands into a less controllable environment. Knowledge of behaviour and habitat affects where the photographer waits and what becomes visible. A long lens provides a narrow view from a distance, although environmental images can depend on including more of the animal's surroundings. Light, access and subject movement frequently impose compromises between shutter speed, aperture and ISO. The animal's behaviour also establishes an ethical limit: a successful image cannot justify disturbance or damage. Patience and understanding matter alongside equipment. [2](#ref-2)
 
+![A blue-and-orange common kingfisher flying to the right above a softly blurred grey-green background.](assets/05/shrestha-kingfisher-flight-2023.jpg)
+
+*Photograph 5 — Wildlife. Prasan Shrestha, Common kingfisher in flight, 1 December 2023, Taudaha Lake, Nepal. The clear outline separates the bird from its surroundings, while the open space ahead of it gives the movement a direction. Credit: Prasan Shrestha, via Wikimedia Commons; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [33](#ref-33)*
+
 Macro photography reverses the apparent scale of the world. At close distances, a thin zone of sharpness can make a small subject difficult to describe fully. Focus stacking combines photographs focused at different distances, extending the sharp region in the finished image. It is most straightforward with a stable camera and a subject that remains still; wind and a moving insect can disrupt the sequence. Scientific and technical photography takes the demand for control further. Scale references, consistent illumination and documented procedures may be essential when an image serves as a record for comparison or analysis. [3](#ref-3)
+
+![A hoverfly resting on the yellow centre of a pale pink flower, with parts of the petals and the background out of focus.](assets/05/darby-hoverfly-macro-2009.jpg)
+
+*Photograph 6 — Macro and close-up. Matt Darby, Hoverfly Macro, 31 August 2009. Fine detail in the wings and body contrasts with softer petals and background, making the narrow region of sharpness visible. Credit: Matt Darby / Lemsipmatt, via Wikimedia Commons; [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). [34](#ref-34)*
 
 ### Evidence, persuasion and invention
 
@@ -47,6 +71,10 @@ Picfair surveyed 541 photographers in November 2024, emphasising amateurs and em
 The history of photography becomes more revealing when approached through changing ideas about the medium. Julia Margaret Cameron's nineteenth-century portraits and tableaux gave expressive softness and dramatic presence a place in photographic art. Her work challenged the assumption that meticulous detail was the sole measure of achievement. Ansel Adams later made the carefully interpreted print central to his landscapes. His concept of visualisation connected an imagined result with the decisions made during exposure and in the darkroom. Together, these practices show how photographic description has always included interpretation. [6](#ref-6) [7](#ref-7)
 
 A different emphasis appears in Dorothea Lange's socially engaged work during the Great Depression. *Migrant Mother* became an emblem of hardship through its circulation, bringing a particular encounter into public debate. Henri Cartier-Bresson's photographs, associated with the idea of the decisive moment, joined spontaneous observation with a strong sense of visual order. As a co-founder of Magnum Photos, he also belonged to a professional structure through which photographers developed and circulated their work. Their practices suggest two related questions: what makes an instant visually compelling, and what allows that instant to speak about a larger situation? [8](#ref-8) [9](#ref-9)
+
+![Dorothea Lange's Migrant Mother: Florence Owens Thompson looks into the distance with a hand against her face, two children turning away and an infant in her lap.](assets/05/lange-migrant-mother-1936.jpg)
+
+*Photograph 7 — Documentary photography. Dorothea Lange, Migrant Mother, Nipomo, California, 1936. The mother's face and hand anchor the composition while the children turn away, concentrating the encounter around her expression. This reproduction retains the original negative's visible border. Credit: Dorothea Lange / Library of Congress, fsa.8b29516, via Wikimedia Commons; public domain in the United States as an FSA government work. [35](#ref-35)*
 
 Robert Frank's *The Americans*, first published in France in 1958, gave the photographic book a powerful role in shaping a personal account of society. Meaning emerges through recurring motifs and the relationships between pictures as well as through individual frames. His Swiss origins also connect this international history to a photographic culture that extends beyond national subjects. Cindy Sherman approached representation through constructed scenes. In *Untitled Film Stills*, her fictional characters evoke familiar screen identities, making the apparent naturalness of those identities open to question. [10](#ref-10) [11](#ref-11)
 
@@ -147,6 +175,18 @@ The sources below support the chapter's factual and technical discussion. Survey
 26. <a id="ref-26"></a>Natural History Museum, London. [*Wildlife Photographer of the Year: Competition*](https://www.nhm.ac.uk/wildlife-photographer-of-the-year/competition.html).
 27. <a id="ref-27"></a>World Photography Organisation. [*Sony World Photography Awards*](https://www.worldphoto.org/sony-world-photography-awards).
 28. <a id="ref-28"></a>Swiss Press Award. [*Swiss Press Photo and the Swiss Journalism Prize*](https://swisspressaward.ch/en/).
+
+### Image sources and credits
+
+The photographs are reproduced from the source files below as 1280-pixel-wide Wikimedia thumbnails, without additional cropping, retouching or colour changes. Captions describe visible features; they do not infer undocumented camera settings. Credit and rights statements apply to the individual images. [Download URLs and source metadata](assets/05/photo-sources.json) are stored with the assets.
+
+29. <a id="ref-29"></a>Cameron, Julia Margaret. (1867). [*Portrait of Sir John Herschel*](https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_John_Herschel_by_Julia_Margaret_Cameron%2C_1867.jpg). MoMA, object 832.1965; reproduction via Wikimedia Commons. Public domain, as identified on the source page.
+30. <a id="ref-30"></a>Atget, Eugène. (1898). [*Coin de la rue Vauvillers*](https://commons.wikimedia.org/wiki/File:Coin_de_la_rue_Vauvillers_1898%2C_PH1184.jpg). Musée Carnavalet, Paris Musées, PH1184. Reproduction released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+31. <a id="ref-31"></a>Adams, Ansel. (1942). [*The Tetons and the Snake River*](https://commons.wikimedia.org/wiki/File:Ansel_Adams_-_National_Archives_79-AA-G01.jpg). U.S. National Archives, 79-AA-G01. Source identifies it as a National Park Service government work in the U.S. public domain.
+32. <a id="ref-32"></a>Sellers, Ron. (2018). [*California Washington State basketball*](https://commons.wikimedia.org/wiki/File:California_Washington_State_basketball.jpg). [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+33. <a id="ref-33"></a>Shrestha, Prasan. (2023). [*Common kingfisher in flight*](https://commons.wikimedia.org/wiki/File:Common_kingfisher_in_flight.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+34. <a id="ref-34"></a>Darby, Matt (Lemsipmatt). (2009). [*Hoverfly Macro*](https://commons.wikimedia.org/wiki/File:Hoverfly_Macro.jpg). Originally published on Flickr; Wikimedia Commons records a licence review. [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+35. <a id="ref-35"></a>Lange, Dorothea. (1936). [*Migrant Mother, original negative scan*](https://commons.wikimedia.org/wiki/File:Migrant_Mother_by_Dorothea_Lange_%28original%29.tif). Library of Congress, fsa.8b29516. Source identifies it as an FSA government work in the U.S. public domain.
 
 ## Further Reading
 
